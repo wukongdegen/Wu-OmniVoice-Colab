@@ -24,4 +24,4 @@ Nếu bật lưu vào Google Drive, dữ liệu nằm trong `MyDrive/WuOmniVoice
 
 ## Bản phát hành
 
-Notebook cài gói binary Linux/Python 3.12 từ GitHub Releases. Mã Python lõi được biên dịch bằng Cython để hạn chế đọc/sao chép trực tiếp; đây không phải cơ chế chống dịch ngược tuyệt đối.
+Notebook tự chọn gói binary Linux phù hợp với Python 3.12 hoặc 3.13 của runtime Colab từ GitHub Releases. Mã Python lõi được biên dịch bằng Cython để hạn chế đọc/sao chép trực tiếp; đây không phải cơ chế chống dịch ngược tuyệt đối.
